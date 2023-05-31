@@ -21,7 +21,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>chat.netty.server.Server</mainClass>
+                  <mainClass>chat.java.netty.server.Server</mainClass>
                 </transformer>
               </transformers>
             </configuration>
